@@ -21,12 +21,17 @@ In CMD or Powershell console
 ## <a name="Command"></a>Command 📢
 
 Please execute the correct command now
-
+```markdown
 -- Default values
-```python script.py```
 
+```bash
+python script.py
+
+```markdown
 --Custom values
-```python script.py --bordes no --imagen imageBlackWhite.png --tamaño-minimo 8 --fondo black --palabra "MyWord"```
+
+```bash
+python script.py --bordes no --imagen imageBlackWhite.png --tamaño-minimo 8 --fondo black --palabra "MyWord"
 
 
 * You can change the names in nombres.xlsx file
